@@ -7,7 +7,7 @@ Sebelum menjalankan tool ini, pastikan sudah terpasang:
 
 Ruby ≥ 2.7
 Koneksi internet
-API Key dari penyedia API yang didukung (misalnya Veriphone / NumValidate / dll)
+API Key dari penyedia API yang didukung yakni Veriphone
 
 Cek Ruby:
 
