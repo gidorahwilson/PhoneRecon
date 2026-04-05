@@ -15,7 +15,7 @@ ruby -v
 
 # Cara Install
 1) Clone repository dari GitHub
-git clone https://github.com/USERNAME/PhoneRecon.git
+git clone https://github.com/gidorahwilson/PhoneRecon.git
 cd PhoneRecon
 
 2) Siapkan API Key (WAJIB)
