@@ -65,3 +65,6 @@ Pastikan Ruby terinstall dengan benar.
 👨‍💻 Author
 
 Andriano
+
+# Screenshot
+![PhoneRecon](https://github.com/gidorahwilson/PhoneRecon/blob/main/PhoneRecon/Screenshot%20_1.png)
